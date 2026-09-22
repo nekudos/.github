@@ -28,4 +28,3 @@ A pull request should explain:
 - any follow-up work that remains.
 
 By contributing, you agree that your contribution is provided under the license of the repository receiving it.
-

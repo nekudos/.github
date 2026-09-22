@@ -37,4 +37,3 @@ Contributions to public projects are welcome. Read our [contribution guide](../C
 - NeKu AI: [neku.ai](https://neku.ai/en/)
 - Product and technical enquiries: [info@neku.ai](mailto:info@neku.ai)
 - Corporate enquiries: [info@nekudos.com](mailto:info@nekudos.com)
-

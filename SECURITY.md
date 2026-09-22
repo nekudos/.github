@@ -19,4 +19,3 @@ We will review the report, request additional information when needed, and coord
 ## Supported versions
 
 Security fixes are applied to the latest supported release of an active public project unless that project's own documentation states otherwise. Archived repositories are not actively supported.
-

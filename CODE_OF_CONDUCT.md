@@ -19,4 +19,3 @@ Harassment, discrimination, personal attacks, threats, deliberate disruption, pu
 Report conduct concerns privately to [info@nekudos.com](mailto:info@nekudos.com). Include enough context for the maintainers to understand what happened, but do not publish personal or security-sensitive information in a public issue.
 
 Maintainers may remove content, close discussions, reject contributions, or restrict participation when needed to protect the project and its community.
-

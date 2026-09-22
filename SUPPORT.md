@@ -16,4 +16,3 @@ Follow our [security policy](SECURITY.md) and report vulnerabilities privately. 
 - NeKuDos consulting and corporate enquiries: [info@nekudos.com](mailto:info@nekudos.com) or the [NeKuDos contact page](https://nekudos.com/en/contact/)
 
 GitHub issues are not a channel for sharing production credentials, confidential project details, or customer data.
-
